@@ -8,7 +8,7 @@ import java.util.List;
 public interface UserInfoMapper {
 
     /**
-     * 增加一条数据测试
+     * 增加一条数据
      * @param userInfo 数据
      */
     void add(UserInfo userInfo);
